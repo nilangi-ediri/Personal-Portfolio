@@ -1,16 +1,16 @@
 import React from 'react'
 
 export default function Lsb() {
-  return (
+    return (
         <div className="left-sidebar">
             <div className="sidebar-header d-flex align-items-center justify-content-between">
-                <img src="./assets/images/logo.png" alt="Logo"/>
-                <span className="designation">Framer Designer & Developer</span>
+                <img src="./assets/images/logo2.png" alt="Logo" />
+                <span className="designation">Software Engineer</span>
             </div>
-            <img className="me" src="./assets/images/me.jpg" alt="Me"/>
-            <h2 className="email">hello@drake.design</h2>
-            <h2 className="address">Base in Los Angeles, CA</h2>
-            <p className="copyright">&copy; 2022 Drake. All Rights Reserved</p>
+            <img className="me" src="./assets/images/me3.jpg" alt="Me" />
+            <h2 className="email">nilangi.ediri@gmail.com</h2>
+            <h2 className="address">Based in Adelaide, SA</h2>
+            <p className="copyright">&copy; 2025 Nilangi. All Rights Reserved</p>
             <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
                 <li>
                     <a href="https://twitter.com/"><i className="lab la-twitter"></i></a>
@@ -29,5 +29,5 @@ export default function Lsb() {
                 <i className="las la-envelope"></i> Hire Me!
             </a>
         </div>
-  )
+    )
 }   
