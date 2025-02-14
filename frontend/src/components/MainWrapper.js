@@ -14,24 +14,24 @@ import Contact from './Main-Components/Contact'
 export default function Main() {
   return (
     <main className="drake-main">
-        <div id="smooth-wrapper">
-            <div id="smooth-content">
+      <div id="smooth-wrapper">
+        <div id="smooth-content">
 
-                <Lsb/> {/* this component will used by mobile devices */}
+          <Lsb /> {/* this component will used by mobile devices */}
 
-                <Herosec/>
-                <About/>
-                <Resume/>
-                <Service/>
-                <Skills/>
-                <Portfolio/>
-                <Testimonials/>
+          <Herosec />
+          <About />
+          <Resume />
+          <Service />
+          <Skills />
+          <Portfolio />
+          {/* <Testimonials/>
                 <Clientlogos/>
-                <Pricing/>
-                <Contact/>
-                
-            </div>
+                <Pricing/> */}
+          <Contact />
+
         </div>
+      </div>
     </main>
   )
 }
