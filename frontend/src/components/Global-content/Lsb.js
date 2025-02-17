@@ -8,7 +8,7 @@ export default function Lsb() {
                 <span className="designation">Software Engineer</span>
             </div>
             <img className="me" src="./assets/images/me3.jpg" alt="Me" />
-            <h2 className="email">nilangi.ediri@gmail</h2>
+            <h2 className="email">nilangi.ediri@gmail.com</h2>
             <h2 className="address">Based in Adelaide, SA</h2>
             <p className="copyright">&copy; 2025 Nilangi. All Rights Reserved</p>
             <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
