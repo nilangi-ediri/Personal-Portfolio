@@ -94,7 +94,7 @@ export default function Service() {
                                 color: '#ffffff'
                             }}
                         >
-                            <span>Software Engineering</span>
+                            <span style={{ fontSize: '20px' }}>Software Engineering</span>
                             <i
                                 className="las la-laptop-code"
                                 style={{
@@ -121,7 +121,7 @@ export default function Service() {
                                 color: '#ffffff'
                             }}
                         >
-                            <span>Web Development</span>
+                            <span style={{ fontSize: '20px' }}>Web Development</span>
                             <i
                                 className="las la-code"
                                 style={{
@@ -148,7 +148,7 @@ export default function Service() {
                                 color: '#ffffff'
                             }}
                         >
-                            <span>Machine Learning</span>
+                            <span style={{ fontSize: '20px' }}>Machine Learning</span>
                             <i
                                 className="las la-robot"
                                 style={{
@@ -175,7 +175,7 @@ export default function Service() {
                                 color: '#ffffff'
                             }}
                         >
-                            <span>Technical Documentation</span>
+                            <span style={{ fontSize: '20px' }}>Technical Documentation</span>
                             <i
                                 className="las la-terminal"
                                 style={{
@@ -202,7 +202,7 @@ export default function Service() {
                                 color: '#ffffff'
                             }}
                         >
-                            <span>Software Quality Assurance</span>
+                            <span style={{ fontSize: '20px' }}>Software Quality Assurance</span>
                             <i
                                 className="las la-certificate"
                                 style={{
