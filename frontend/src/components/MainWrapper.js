@@ -22,7 +22,7 @@ export default function Main() {
           <Herosec />
           <About />
           <Resume />
-          <Service />
+          {/* <Service /> */}
           <Skills />
           <Portfolio />
           {/* <Testimonials/>

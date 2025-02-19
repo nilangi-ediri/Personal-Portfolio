@@ -18,11 +18,11 @@ export default function Scrollnav() {
                     <span>Resume</span> <i className="las la-briefcase"></i>
                 </a>
             </li>
-            <li>
+            {/* <li>
                 <a className="scroll-to" href="#services">
                     <span>Services</span> <i className="las la-stream"></i>
                 </a>
-            </li>
+            </li> */}
             <li>
                 <a className="scroll-to" href="#skills">
                     <span>Skills</span> <i className="las la-shapes"></i>
@@ -38,11 +38,11 @@ export default function Scrollnav() {
                 <span>Testimonial</span> <i className="lar la-comment"></i>
             </a>
         </li> */}
-            <li>
+            {/* <li>
                 <a className="scroll-to" href="#contact">
                     <span>Contact</span> <i className="las la-envelope"></i>
                 </a>
-            </li>
+            </li> */}
         </ul>
     )
 }
