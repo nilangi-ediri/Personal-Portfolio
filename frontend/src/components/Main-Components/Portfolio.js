@@ -112,6 +112,86 @@ export default function Portfolio() {
                             </div>
                         </div>
 
+                        <div className="col-md-6 scroll-animation" data-aos='fade-right'>
+                            <div className="portfolio-item portfolio-half">
+                                <div className="portfolio-item-inner">
+                                    <a href="../assets/images/2D Mechanics.JPG" data-lightbox="example-1">
+                                        <img src="../assets/images/2D Mechanics.JPG" alt="Portfolio" />
+                                    </a>
+                                    <ul className="portfolio-categories">
+                                        <li>
+                                            <a href="https://github.com/nilangi-ediri/Three-Degrees-of-Freedom-Magnetic-Suspension-System---Group-Research-Project/blob/main/Group%20Research%20Project%20Dissertation%20_%201632456.pdf" target="blank">Dissertation</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h2><a href="https://github.com/nilangi-ediri/Three-Degrees-of-Freedom-Magnetic-Suspension-System---Group-Research-Project" target="blank">Three Degrees of Freedom, Magnetic Suspension System - Group Research Project</a></h2>
+                            </div>
+                        </div>
+
+                        <div className="col-md-6 scroll-animation" data-aos='fade-right'>
+                            <div className="portfolio-item portfolio-half">
+                                <div className="portfolio-item-inner">
+                                    <a href="../assets/images/1688246025102.jpeg" data-lightbox="example-1">
+                                        <img src="../assets/images/1688246025102.jpeg" alt="Portfolio" />
+                                    </a>
+                                    <ul className="portfolio-categories">
+                                        <li>
+                                            <a href="https://github.com/nilangi-ediri/-Automatically-Guided-Arduino-Robot/blob/main/Group%20Project%20-%20Final%20Report.pdf" target="blank">Report</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h2><a href="https://github.com/nilangi-ediri/-Automatically-Guided-Arduino-Robot" target="blank">Automatically Guided Arduino Robot</a></h2>
+                            </div>
+                        </div>
+
+                        <div className="col-md-6 scroll-animation" data-aos='fade-left'>
+                            <div className="portfolio-item portfolio-half">
+                                <div className="portfolio-item-inner">
+                                    <a href="../assets/images/FD1_Hilbert.jpg" data-lightbox="example-1">
+                                        <img src="../assets/images/FD1_Hilbert.jpg" alt="Portfolio" />
+                                    </a>
+                                    <ul className="portfolio-categories">
+                                        <li>
+                                            <a href="https://github.com/nilangi-ediri/Fault-Diagnosis-of-a-Bearing-using-MATLAB/blob/main/Report%20on%20Fault%20Diagnosis%20of%20a%20Bearing%20Using%20MATLAB.pdf" target="blank">Report</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h2><a href="https://github.com/nilangi-ediri/Fault-Diagnosis-of-a-Bearing-using-MATLAB" target="blank">Fault Diagnosis of a Bearing using MATLAB</a></h2>
+                            </div>
+                        </div>
+
+                        <div className="col-md-6 scroll-animation" data-aos='fade-right'>
+                            <div className="portfolio-item portfolio-half">
+                                <div className="portfolio-item-inner">
+                                    <a href="../assets/images/1688246156703.jpeg" data-lightbox="example-1">
+                                        <img src="../assets/images/1688246156703.jpeg" alt="Portfolio" />
+                                    </a>
+                                    <ul className="portfolio-categories">
+                                        <li>
+                                            <a href="https://github.com/nilangi-ediri/DC-Motor-Speed-Controller/blob/main/1632456_Nilangi_Edirisinghe_Embedded_Systems_Assignment.pdf" target="blank">Assignment</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h2><a href="https://github.com/nilangi-ediri/DC-Motor-Speed-Controller" target="blank">Design and Development of a DC Motor Speed Controller</a></h2>
+                            </div>
+                        </div>
+
+                        <div className="col-md-12 scroll-animation" data-aos='fade-left'>
+                            <div className="portfolio-item portfolio-half">
+                                <div className="portfolio-item-inner">
+                                    <a href="../assets/images/poster-individual-automated-guide.jpg" data-lightbox="example-1">
+                                        <img src="../assets/images/poster-individual-automated-guide.jpg" alt="Portfolio" />
+                                    </a>
+                                    <ul className="portfolio-categories">
+                                        <li>
+                                            <a href="https://github.com/nilangi-ediri/Automated-Guided-Vehicle-with-Visual-Perception/blob/main/Individual_Research_Project_Dissertation_Nilangi%20Edirisinghe_1632456.pdf" target="blank">Dissertation</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h2><a href="https://github.com/nilangi-ediri/Automated-Guided-Vehicle-with-Visual-Perception" target="blank">Automated Guided Vehicle with Visual Perception</a></h2>
+                            </div>
+                        </div>
+
                         {/* <div className="col-md-12 scroll-animation" data-aos='fade-up'>
                             <div className="portfolio-item portfolio-half">
                                 <div className="portfolio-item-inner">
