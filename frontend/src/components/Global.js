@@ -20,7 +20,7 @@ export default function Global() {
       {/* <Pageloader/> */}
 
       {/* Settings icon */}
-      <Settings clickEvent={changeVideo} />
+      {/* <Settings clickEvent={changeVideo} /> */}
 
       {/* Left Side Bar and it will get executed on large devices*/}
       <Lsb />
