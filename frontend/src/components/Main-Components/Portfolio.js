@@ -168,7 +168,7 @@ export default function Portfolio() {
                                     </a>
                                     <ul className="portfolio-categories">
                                         <li>
-                                            <a href="https://github.com/nilangi-ediri/DC-Motor-Speed-Controller/blob/main/1632456_Nilangi_Edirisinghe_Embedded_Systems_Assignment.pdf" target="blank">Assignment</a>
+                                            <a href="https://github.com/nilangi-ediri/DC-Motor-Speed-Controller/blob/main/1632456_Nilangi_Edirisinghe_Embedded_Systems_Assignment.pdf" target="blank">Report</a>
                                         </li>
                                     </ul>
                                 </div>
