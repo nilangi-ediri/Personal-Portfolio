@@ -9,8 +9,9 @@ export default function Lsb() {
             </div>
             <img className="me" src="./assets/images/me3.jpg" alt="Me" />
             {/* <h2 className="email">I'm</h2> */}
+            <h2 className="address">nilangi.ediri@gmail.com</h2>
             <h2 className="address">Based in Adelaide, SA</h2>
-            <p className="copyright">Experienced in frontend and backend development, with hands-on projects in AI, automation, and real-world research.</p>
+            {/* <p className="copyright">Experienced in frontend and backend development, with hands-on projects in AI, automation, and real-world research.</p> */}
             {/* <p className="copyright">&copy; 2025 Nilangi. All Rights Reserved</p> */}
             <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
                 <li>
@@ -23,7 +24,7 @@ export default function Lsb() {
                     <a href="mailto:nilangi.ediri@gmail.com" target="blank"><i className="las la-at"></i></a>
                 </li>
             </ul>
-            <a href="https://drive.google.com/file/d/11TkDIC_jnEhh_kQ8qTYy1ReIL8MfmK3J/view?usp=sharing" target="blank" className="theme-btn">
+            <a href="https://drive.google.com/file/d/1Az1q9l1WvgtVp6s3rF7nvxsrHR-Dntb7/view?usp=drive_link" target="blank" className="theme-btn">
                 <i className="las la-envelope"></i> Download CV
             </a>
         </div>

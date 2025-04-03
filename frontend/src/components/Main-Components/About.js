@@ -14,8 +14,8 @@ export default function About() {
                         <h4 className="subtitle scroll-animation" data-aos='fade-up'>
                             <i className="lar la-user"></i> About
                         </h4>
-                        <h1 className="scroll-animation" data-aos='fade-up'>Bridging engineering and technology<br />
-                            to create <span>impactful solutions</span></h1>
+                        <h1 className="scroll-animation" data-aos='fade-up'>Bridging engineering and technology
+                            to create <br /><span>impactful solutions</span></h1>
                     </div>
                     <p className="scroll-animation" data-aos='fade-up' style={{ textAlign: "justify" }}>With a background in Mechatronics Engineering and a  Master’s specializing in Computer Science at The University of Adelaide, I bring a unique blend of technical expertise and creativity.
                         My journey has equipped me with strong skills in software engineering, web development, and machine learning, with proven success in front-end development, algorithms, and AI-driven solutions.</p>

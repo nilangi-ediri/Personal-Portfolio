@@ -176,7 +176,7 @@ export default function Portfolio() {
                             </div>
                         </div>
 
-                        <div className="col-md-12 scroll-animation" data-aos='fade-left'>
+                        <div className="col-md-6 scroll-animation" data-aos='fade-left'>
                             <div className="portfolio-item portfolio-half">
                                 <div className="portfolio-item-inner">
                                     <a href="../assets/images/poster-individual-automated-guide.jpg" data-lightbox="example-1">
@@ -189,6 +189,22 @@ export default function Portfolio() {
                                     </ul>
                                 </div>
                                 <h2><a href="https://github.com/nilangi-ediri/Automated-Guided-Vehicle-with-Visual-Perception" target="blank">Automated Guided Vehicle with Visual Perception</a></h2>
+                            </div>
+                        </div>
+
+                        <div className="col-md-6 scroll-animation" data-aos='fade-left'>
+                            <div className="portfolio-item portfolio-half">
+                                <div className="portfolio-item-inner">
+                                    <a href="../assets/images/proxy.png" data-lightbox="example-1">
+                                        <img src="../assets/images/proxy.png" alt="Portfolio" />
+                                    </a>
+                                    <ul className="portfolio-categories">
+                                        <li>
+                                            <a href="https://github.com/nilangi-ediri/HTTP-Web-Proxy-Server" target="blank">GitHub</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h2><a href="https://github.com/nilangi-ediri/HTTP-Web-Proxy-Server" target="blank">HTTP Web Proxy Server</a></h2>
                             </div>
                         </div>
 

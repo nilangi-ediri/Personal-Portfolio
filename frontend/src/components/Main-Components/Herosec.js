@@ -14,7 +14,7 @@ export default function Herosec() {
                         <h4 className="subtitle scroll-animation" data-animation="fade_from_bottom" data-aos='fade-up'>
                             <i className="las la-home"></i> Introduction
                         </h4>
-                        <h1 className="scroll-animation" data-aos='fade-up'>Hi! I am<span> Nilangi</span>, Software Engineer & Web Developer</h1>
+                        <h1 className="scroll-animation" data-aos='fade-up'>Hi! I am<span> Nilangi</span>, Software Engineer</h1>
                     </div>
                     <p className="scroll-animation" data-aos='fade-up'>I design and code beautifully simple things and I love what I do. Just simple like that!</p>
                     <a href="#portfolio"
