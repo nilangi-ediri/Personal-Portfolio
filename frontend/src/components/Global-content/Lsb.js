@@ -24,7 +24,7 @@ export default function Lsb() {
                     <a href="mailto:nilangi.ediri@gmail.com" target="blank"><i className="las la-at"></i></a>
                 </li>
             </ul>
-            <a href="https://drive.google.com/file/d/1Az1q9l1WvgtVp6s3rF7nvxsrHR-Dntb7/view?usp=drive_link" target="blank" className="theme-btn">
+            <a href="https://drive.google.com/file/d/1Az1q9l1WvgtVp6s3rF7nvxsrHR-Dntb7/view?usp=sharing" target="blank" className="theme-btn">
                 <i className="las la-envelope"></i> Download CV
             </a>
         </div>
