@@ -35,18 +35,26 @@ export default function Portfolio() {
                                     </a>
 
                                     <ul className="portfolio-categories">
-                                        <li>
-                                            <a href="https://github.com/nilangi-ediri/WellSpace/blob/main/Final_Report_%5Ba1882259%5D_%5BNilangi_Edirisinghe%5D.pdf" target="blank">Report</a>
+                                        <li className="live-demo">
+                                            <a href="https://well-space-lac.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
                                         </li>
                                         <li>
-                                            <a href="https://github.com/nilangi-ediri/WellSpace" target="blank">GitHub Repo</a>
+                                            <a href="https://github.com/nilangi-ediri/WellSpace/blob/main/Final_Report_%5Ba1882259%5D_%5BNilangi_Edirisinghe%5D.pdf" target="_blank" rel="noopener noreferrer">Report</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.youtube.com/watch?v=vESZjPLJnKQ" target="blank">Pitch Presentation</a>
+                                            <a href="https://github.com/nilangi-ediri/WellSpace" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.youtube.com/watch?v=vESZjPLJnKQ" target="_blank" rel="noopener noreferrer">Pitch Presentation</a>
                                         </li>
                                     </ul>
                                 </div>
-                                <h2><a href="https://github.com/nilangi-ediri/WellSpace" target="blank">WellSpace - Mental Health Website - Front End Developmet</a></h2>
+                                <h2><a href="https://github.com/nilangi-ediri/WellSpace" target="_blank" rel="noopener noreferrer">WellSpace - Mental Health Web Platform</a></h2>
+                                <p className="live-demo-cta" style={{ marginTop: '12px' }}>
+                                    <a href="https://well-space-lac.vercel.app/" target="_blank" rel="noopener noreferrer" style={{ color: '#28e98c', fontSize: '20px', fontWeight: '300', display: 'inline-flex', alignItems: 'center', gap: '10px', borderBottom: '2px solid #28e98c', paddingBottom: '3px' }}>
+                                        <i className="las la-external-link-alt" style={{ fontSize: '22px' }}></i> Experience it Live - Deployed on Cloud
+                                    </a>
+                                </p>
                             </div>
                         </div>
 
@@ -68,7 +76,7 @@ export default function Portfolio() {
                                         </li>
                                     </ul>
                                 </div>
-                                <h2><a href="https://www.moonex.com">Autism Social Platform - Information Web Page</a></h2>
+                                <h2><a href="https://github.com/nilangi-ediri/Autism-Social_Website" target="blank">Autism Social Platform - Information Web Page</a></h2>
                             </div>
                         </div>
 
@@ -108,7 +116,32 @@ export default function Portfolio() {
                                         </li>
                                     </ul>
                                 </div>
-                                <h2><a href="https://www.linkedin.com/company/clevart/posts/?feedView=all" target="blank">Internship Project @ CREART Digital Media - Front End Development</a></h2>
+                                <h2><a href="https://www.linkedin.com/company/clevart/posts/?feedView=all" target="blank">Internship Project @ CREART Digital Media</a></h2>
+                            </div>
+                        </div>
+
+                        <div className="col-md-12 scroll-animation" data-aos='fade-up'>
+                            <div className="portfolio-item portfolio-full">
+                                <div className="portfolio-item-inner">
+                                    <a href="../assets/images/saas-app.png" data-lightbox="example-1">
+                                        <img src="../assets/images/saas-app.png" alt="SaaS Learning Application" />
+                                    </a>
+
+                                    <ul className="portfolio-categories">
+                                        <li className="live-demo">
+                                            <a href="https://saas-app-nila.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://github.com/nilangi-ediri/saas-app-nila" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h2><a href="https://github.com/nilangi-ediri/saas-app-nila" target="_blank" rel="noopener noreferrer">SaaS Learning Application with AI Chatbot</a></h2>
+                                <p className="live-demo-cta" style={{ marginTop: '12px' }}>
+                                    <a href="https://saas-app-nila.vercel.app/" target="_blank" rel="noopener noreferrer" style={{ color: '#28e98c', fontSize: '20px', fontWeight: '300', display: 'inline-flex', alignItems: 'center', gap: '10px', borderBottom: '2px solid #28e98c', paddingBottom: '3px' }}>
+                                        <i className="las la-external-link-alt" style={{ fontSize: '22px' }}></i> Experience it Live - Deployed on Cloud
+                                    </a>
+                                </p>
                             </div>
                         </div>
 
@@ -124,7 +157,7 @@ export default function Portfolio() {
                                         </li>
                                     </ul>
                                 </div>
-                                <h2><a href="https://github.com/nilangi-ediri/Three-Degrees-of-Freedom-Magnetic-Suspension-System---Group-Research-Project" target="blank">Three Degrees of Freedom, Magnetic Suspension System - Group Research Project</a></h2>
+                                <h2><a href="https://github.com/nilangi-ediri/Three-Degrees-of-Freedom-Magnetic-Suspension-System---Group-Research-Project" target="blank">Three Degrees of Freedom, Magnetic Suspension System</a></h2>
                             </div>
                         </div>
 
