@@ -16,8 +16,8 @@ export default function Main() {
     <main className="drake-main">
       <div id="smooth-wrapper">
         <div id="smooth-content">
-
-          {/* <Lsb /> this component will used by mobile devices */}
+          {/* this component will used by mobile devices */}
+          <Lsb />
 
           <Herosec />
           <About />
