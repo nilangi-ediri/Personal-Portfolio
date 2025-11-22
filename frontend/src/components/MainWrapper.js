@@ -17,7 +17,7 @@ export default function Main() {
       <div id="smooth-wrapper">
         <div id="smooth-content">
 
-          <Lsb /> {/* this component will used by mobile devices */}
+          {/* <Lsb /> this component will used by mobile devices */}
 
           <Herosec />
           <About />
